@@ -87,4 +87,12 @@ const superstitiousStoreItems = [
     }
   ];
 
-  
+  let itemCart = []
+  const itemSelect = ø("#itemSelect")
+  æ("#itemSelect")
+
+  const item = document.createElement("option")
+  // console.log(todoItem)
+  item.textContent = 
+  itemSelect.push(itemCart)
+  console.log(item)
